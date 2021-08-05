@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{display:inline;fill:url(#SVGID_1_);}
+	.st4{display:inline;fill:#DB8200;}
+	.st5{display:inline;fill:#F2F2F2;}
+	.st6{fill:none;stroke:#DB8200;stroke-width:7;stroke-miterlimit:10;}
+	.st7{display:none;fill:#FFFFFF;stroke:#333333;stroke-width:2;stroke-miterlimit:10;}
+	.st8{font-family:'BirdsofParadise-PersonaluseOnly';}
+	.st9{font-size:71.9138px;}
+	.st10{fill:#DB8200;stroke:#F2F2F2;stroke-miterlimit:10;}
+	.st11{font-size:70.7419px;}
+	.st12{display:none;opacity:0;}
+	.st13{display:inline;fill:url(#SVGID_2_);}
+</style>
+<g id="backgroud" class="st0">
+	<rect x="1.4" y="0.8" class="st1" width="1022.1" height="1022.1"/>
+	<path class="st2" d="M1023,1.3v1021.1H1.9V1.3H1023 M1024,0.3H0.9v1023.1H1024V0.3L1024,0.3z"/>
+</g>
+<g id="cartão-de-visita" class="st0">
+	
+		<radialGradient id="SVGID_1_" cx="512" cy="553" r="405.7581" gradientTransform="matrix(0.793 0 0 0.9814 106 10.2952)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#736357;stop-opacity:0.38"/>
+		<stop  offset="4.904366e-02" style="stop-color:#605248;stop-opacity:0.4104"/>
+		<stop  offset="0.1396" style="stop-color:#423932;stop-opacity:0.4666"/>
+		<stop  offset="0.2404" style="stop-color:#2A2420;stop-opacity:0.5291"/>
+		<stop  offset="0.3537" style="stop-color:#171411;stop-opacity:0.5993"/>
+		<stop  offset="0.4867" style="stop-color:#0A0907;stop-opacity:0.6817"/>
+		<stop  offset="0.6576" style="stop-color:#020202;stop-opacity:0.7877"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<path class="st3" d="M136,808.5c-16.3,0-29.5-13.2-29.5-29.5V327c0-16.3,13.2-29.5,29.5-29.5h752c16.3,0,29.5,13.2,29.5,29.5v452
+		c0,16.3-13.2,29.5-29.5,29.5H136z"/>
+	<path class="st2" d="M888,298c16,0,29,13,29,29v452c0,16-13,29-29,29H136c-16,0-29-13-29-29V327c0-16,13-29,29-29H888 M888,297H136
+		c-16.5,0-30,13.5-30,30v452c0,16.5,13.5,30,30,30h752c16.5,0,30-13.5,30-30V327C918,310.5,904.5,297,888,297L888,297z"/>
+</g>
+<g id="complemento-do-C" class="st0">
+	<path class="st4" d="M613.3,399.6L773,549.9L616.4,703.4L613.3,399.6 M606.2,383.3l3.4,336.6l173.5-170.1L606.2,383.3L606.2,383.3z
+		"/>
+</g>
+<g id="W-dois-losango" class="st0">
+	<path class="st5" d="M331.3,332.3l179.1,179.2l2.1,2.1l2.1-2.1l179-179l220.6,220.7L693.6,773.8L514.5,594.7l-2.1-2.1l-2.1,2.1
+		l-179,179L110.7,553L331.3,332.3 M331.3,328.1L106.4,553l224.8,224.9l181.1-181.1l181.2,181.3l224.8-224.9L693.6,328.2L512.5,509.4
+		L331.3,328.1L331.3,328.1z"/>
+</g>
+<g id="W-dois-losango-fundo-preto">
+	<path d="M331.3,332.3l179.1,179.2l2.1,2.1l2.1-2.1l179-179l220.6,220.7L693.6,773.8L514.5,594.7l-2.1-2.1l-2.1,2.1l-179,179
+		L110.7,553L331.3,332.3 M331.3,328.1L106.4,553l224.8,224.9l181.1-181.1l181.2,181.3l224.8-224.9L693.6,328.2L512.5,509.4
+		L331.3,328.1L331.3,328.1z"/>
+</g>
+<path id="C-dourado" class="st6" d="M617.8,404.6c-2.5-2.2-72.3-69-105.8-99.9c-8.9,6.8-248.9,234.1-262.2,247.7
+	c0.1,0,0.4,0.3,0.6,0.4c-0.2-0.1-0.5-0.3-0.6-0.4C311.3,612.3,513,800,514,799c35.4-33.9,69.8-66.8,104.2-99.3"/>
+<text id="Seven-cor-branca" transform="matrix(1.0012 0 0 1 442.1055 574.3779)" class="st7 st8 st9">Seven</text>
+<text transform="matrix(1.0012 0 0 1 443.252 573.3584)" class="st10 st8 st11">Seven</text>
+<g id="losango-dourado" class="st0">
+	<path class="st4" d="M511,302.2L762.8,554L511,805.8L259.2,554L511,302.2 M511,298L255,554l256,256l256-256L511,298L511,298z"/>
+</g>
+<g id="efeito-de-sombra" class="st12">
+	
+		<radialGradient id="SVGID_2_" cx="512.4438" cy="532.2922" r="405.9221" gradientTransform="matrix(1 0 0 1.9628 0 -531.9149)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#736357;stop-opacity:0.38"/>
+		<stop  offset="4.904366e-02" style="stop-color:#605248;stop-opacity:0.4104"/>
+		<stop  offset="0.1396" style="stop-color:#423932;stop-opacity:0.4666"/>
+		<stop  offset="0.2404" style="stop-color:#2A2420;stop-opacity:0.5291"/>
+		<stop  offset="0.3537" style="stop-color:#171411;stop-opacity:0.5993"/>
+		<stop  offset="0.4867" style="stop-color:#0A0907;stop-opacity:0.6817"/>
+		<stop  offset="0.6576" style="stop-color:#020202;stop-opacity:0.7877"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<rect x="0.9" y="1.4" class="st13" width="1023" height="1023"/>
+	<path class="st2" d="M1023.4,1.9v1022H1.4V1.9H1023.4 M1024.4,0.9H0.4v1024h1024V0.9L1024.4,0.9z"/>
+</g>
+</svg>

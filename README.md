@@ -1,5 +1,5 @@
 ## skill-mix
-Gerar uma  mistura de conhecimentos e habilidades!!!
+Gerar uma  mistura de conhecimentos e habilidades!!! kkkkk
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
